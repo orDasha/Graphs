@@ -62,5 +62,3 @@ while True:
 
     print(bfs(graph_desc, int(start_vertex), int(finish_vertex)))
     break
-
-    # Hi
